@@ -7,3 +7,4 @@ videos/*.mov
 videos/*.avi
 analysis/*.json
 .vscode
+.DS_Store
