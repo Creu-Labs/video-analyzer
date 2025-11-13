@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.pyc
+frames/
+videos/*.mp4
+videos/*.mov
+videos/*.avi
+analysis/*.json
+.vscode

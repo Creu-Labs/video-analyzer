@@ -1,0 +1,10 @@
+name: video-analyzer-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - opencv
+  - pip
+  - pip:
+      - -r requirements.txt
